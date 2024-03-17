@@ -1,0 +1,7 @@
+C:\Users\Arvin taoran\Downloads\tpmod5\tpmod5\obj\Debug\tpmod5.csproj.AssemblyReference.cache
+C:\Users\Arvin taoran\Downloads\tpmod5\tpmod5\obj\Debug\tpmod5.csproj.CoreCompileInputs.cache
+C:\Users\Arvin taoran\Downloads\tpmod5\tpmod5\bin\Debug\tpmod5.exe.config
+C:\Users\Arvin taoran\Downloads\tpmod5\tpmod5\bin\Debug\tpmod5.exe
+C:\Users\Arvin taoran\Downloads\tpmod5\tpmod5\bin\Debug\tpmod5.pdb
+C:\Users\Arvin taoran\Downloads\tpmod5\tpmod5\obj\Debug\tpmod5.exe
+C:\Users\Arvin taoran\Downloads\tpmod5\tpmod5\obj\Debug\tpmod5.pdb
